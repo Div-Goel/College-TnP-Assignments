@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sentence-transformers
+PyMuPDF
+faiss-cpu
+pydantic
+streamlit
+python-multipart
+transformers
+requests
+streamlit
+asyncio
