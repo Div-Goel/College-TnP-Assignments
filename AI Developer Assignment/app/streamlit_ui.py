@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-st.title("PDF Q&A AI System (Free)")
+st.title("PDF Q&A AI System")
 
 st.header("Upload PDFs")
 uploaded_files = st.file_uploader("Choose PDF file(s)", type=["pdf"], accept_multiple_files=True)
